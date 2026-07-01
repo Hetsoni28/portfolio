@@ -1,27 +1,44 @@
-# Het Soni — Personal Portfolio 🚀
+<div align="center">
+  <h1 align="center">Het Soni — Personal Portfolio 🚀</h1>
+  <p align="center">
+    A modern, responsive, and beautifully designed personal portfolio showcasing my web development skills.
+  </p>
+  
+  <p align="center">
+    <a href="https://het-portfolio-blue.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+  </p>
+</div>
 
-![Portfolio Preview](./og-image.png)
+<br />
 
-Welcome to the repository of my personal portfolio website! This project showcases my skills as a web developer, my educational background, and the projects I've built. It is designed to be modern, responsive, and visually appealing.
+<div align="center">
+  <img src="./og-image.png" alt="Portfolio Preview" width="100%" />
+</div>
 
-## 🔗 Live Demo
-Check out the live website here: **[Het Soni Portfolio](https://het-portfolio-blue.vercel.app/)**
+<br />
 
 ## ✨ Features
-- **Modern UI/UX**: Clean, dark-themed aesthetic with glowing accents.
-- **Fully Responsive**: Looks great on mobile, tablet, and desktop devices.
-- **Interactive Animations**: Smooth scroll, hover effects, and entrance animations.
+- **Modern UI/UX**: Clean, dark-themed aesthetic with glowing, glassmorphism accents.
+- **Fully Responsive**: Perfectly scaled for mobile, tablet, and desktop devices.
+- **Interactive Animations**: Smooth scroll, hover effects, and entrance animations for a dynamic feel.
 - **Projects Section**: Highlights my latest work and achievements.
 - **Contact Form**: Easy way to get in touch with me.
 
+<br />
+
 ## 🛠️ Tech Stack
 This project was built using the following technologies:
-- **HTML5**: Semantic structure and layout.
-- **CSS3**: Custom styling, Flexbox/Grid, and animations (Vanilla CSS).
-- **JavaScript**: Interactive elements and dynamic behavior.
-- **Vercel**: Fast and seamless deployment.
-- **Font Awesome**: Beautiful vector icons.
-- **Google Fonts**: Custom typography (Inter & Outfit).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+<br />
 
 ## 🚀 Getting Started
 
@@ -40,13 +57,27 @@ If you want to run this project locally on your machine, follow these steps:
 3. **Open the project**
    Simply open the `index.html` file in your favorite web browser, or use a tool like VS Code Live Server to serve it locally.
 
-## 📫 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+<br />
 
-- **LinkedIn**: [Het Soni](https://www.linkedin.com/in/het-soni-b93563283/)
-- **Instagram**: [@het_sony_143](https://www.instagram.com/het_sony_143/)
-- **GitHub**: [@Hetsoni28](https://github.com/Hetsoni28)
-- **Email**: [hetvishalsoni@gmail.com](mailto:hetvishalsoni@gmail.com)
+## 📫 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/het-soni-b93563283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/het_sony_143/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Hetsoni28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:hetvishalsoni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-*Designed and built with ❤️ by Het Soni.*
+<div align="center">
+  <p>Designed and built with ❤️ by Het Soni.</p>
+</div>
