@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <img src="./og-image.png" alt="Portfolio Preview" width="100%" />
+  <img src="./og-image.png" alt="Portfolio Preview" width="700" />
 </div>
 
 <br />
