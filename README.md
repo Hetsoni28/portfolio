@@ -5,7 +5,7 @@
   </p>
   
   <p align="center">
-    <a href="https://het-portfolio-blue.vercel.app/" target="_blank">
+    <a href="https://hetsoni28-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/View%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
   </p>
